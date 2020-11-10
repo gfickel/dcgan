@@ -9,7 +9,7 @@ from tensorflow.keras.layers import (Dense, BatchNormalization, Conv2DTranspose,
         Reshape, Conv2D, Flatten, LeakyReLU, ReLU)
 
 seed = 42
-num_dim = 2
+num_dim = 100
 project_dim = 64
 
 # Generator
